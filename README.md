@@ -58,14 +58,15 @@ The SVG Logo Maker application offers the following key features for generating 
 
 Create unique logos with the SVG Logo Maker application by customizing colors, shapes, and text to suit your branding needs.
 
+## Screenshots
+
+![Screenshot 2024-04-15 143649](https://github.com/hemuprabu/SVG_Logo_Maker/assets/108079829/f0aa0486-e84b-4f1f-9d8c-bbcb4888fe50)
+![Screenshot 2024-04-15 143813](https://github.com/hemuprabu/SVG_Logo_Maker/assets/108079829/4ff2abe3-8b6c-4b9b-8062-780bfcc9e2d2)
+![Screenshot 2024-04-15 144233](https://github.com/hemuprabu/SVG_Logo_Maker/assets/108079829/09e9f2e0-fa0e-4b39-a171-d3f15ed89260)
+
 ## Walkthrough Video:
 
-
-
-
-
-
-
+https://watch.screencastify.com/v/VavBxfCpRVpwYsaInGXZ
 
 ## Repository Quality:
 
